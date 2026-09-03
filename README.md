@@ -2,17 +2,17 @@
 
 Suivi quotidien de 12 concurrents du secteur : VI-grade, IPG Automotive/CarMaker, Cognata, Applied Intuition, dSPACE, CARLA, Concurrent Real-Time/SimWB, rFpro, Ansible Motion, Mechanical Simulation, Foretellix, Dynisma.
 
-## Dernier rapport — 2026-08-28
+## Dernier rapport — 2026-09-03
 
 ### Résumé exécutif
-- **Applied Intuition** a lancé **Dana**, présentée comme la première plateforme agentique pour l'IA physique (autonomie, véhicules définis par logiciel, robotique, flottes), avec des partenaires en accès anticipé comme Isuzu Motors et Komatsu (21/07/2026) — signal fort d'une expansion au-delà du seul automobile.
-- **Dynisma** affiche une activité commerciale intense sur le trimestre : nouveaux contrats avec Dallara (17/07/2026), l'écurie F1 Cadillac (02/06/2026) et Envision Racing en Formula E (22/04/2026), ainsi que le lancement du simulateur compact DMG-S (~11/06/2026).
-- **rFpro** et **Solectrix** ont annoncé l'intégration de la technologie de traitement d'image (ISP) SXIVE dans la plateforme AV elevate de rFpro (10/08/2026), pour le développement de pipelines caméra virtuels.
-- **VI-grade** a publié la version **2026.2** de sa suite logicielle (VI-CarRealTime, VI-DriveSim, VI-NVHSim, VI-WorldSim) le 02/07/2026.
-- **Foretellix** a intégré NVIDIA Alpamayo dans sa solution de référence (juin-août 2026), mais aurait aussi procédé à une réduction d'environ 18 % de ses effectifs début 2026 malgré cette croissance.
-- **CARLA** reste sur sa version stable **0.10.0** (décembre 2024) : aucune nouvelle version stable identifiée à ce jour malgré une activité de développement continue sur GitHub.
+- **Applied Intuition** annonce le **31/08/2026** une collaboration stratégique avec **HUMAIN** (Arabie Saoudite) pour déployer le « Physical AI » à l'échelle nationale, en commençant par ce qui est présenté comme le plus grand réseau de camions autonomes au monde (déploiement visé de milliers de camions d'ici 2030), avec ouverture d'un bureau à Riyad — c'est l'actualité la plus significative de la semaine.
+- **VI-grade** annonce que **KYB** (Tokyo, spécialiste amortisseurs/suspension/EPS) a adopté son simulateur **COMPACT Full-Spectrum Simulator (FSS)** pour ses développements handling, confort de roulement et NVH (date précise non confirmée, autour du 01/09/2026).
+- **VI-grade** et **HBK** annoncent la première édition nord-américaine du **Smart Prototypes Summit**, les **15 et 16 septembre 2026** au Multimatic Vehicle Dynamics Center (Novi, Michigan).
+- **dSPACE** annonce la tenue de sa conférence utilisateurs **dSPACE UC India 2026** le **25 septembre 2026** à Bengaluru (information à reconfirmer sur le site officiel).
+- Pour **IPG Automotive/CarMaker, Cognata, CARLA, Concurrent Real-Time/SimWB, rFpro, Ansible Motion, Mechanical Simulation, Foretellix et Dynisma**, aucune actualité nouvelle et vérifiable n'a été identifiée entre le 28/08/2026 et aujourd'hui — les dernières informations connues restent celles du rapport du 2026-08-28.
 
-[Voir le rapport complet du 2026-08-28](reports/2026-08-28.md)
+[Voir le rapport complet du 2026-09-03](reports/2026-09-03.md)
 
 ## Rapports précédents
+- [2026-09-03](reports/2026-09-03.md)
 - [2026-08-28](reports/2026-08-28.md)
