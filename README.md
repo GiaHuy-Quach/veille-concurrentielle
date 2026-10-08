@@ -2,17 +2,18 @@
 
 Suivi quotidien de 12 concurrents du secteur : VI-grade, IPG Automotive/CarMaker, Cognata, Applied Intuition, dSPACE, CARLA, Concurrent Real-Time/SimWB, rFpro, Ansible Motion, Mechanical Simulation, Foretellix, Dynisma.
 
-## Dernier rapport — 2026-08-28
+## Dernier rapport — 2026-10-08
 
 ### Résumé exécutif
-- **Applied Intuition** a lancé **Dana**, présentée comme la première plateforme agentique pour l'IA physique (autonomie, véhicules définis par logiciel, robotique, flottes), avec des partenaires en accès anticipé comme Isuzu Motors et Komatsu (21/07/2026) — signal fort d'une expansion au-delà du seul automobile.
-- **Dynisma** affiche une activité commerciale intense sur le trimestre : nouveaux contrats avec Dallara (17/07/2026), l'écurie F1 Cadillac (02/06/2026) et Envision Racing en Formula E (22/04/2026), ainsi que le lancement du simulateur compact DMG-S (~11/06/2026).
-- **rFpro** et **Solectrix** ont annoncé l'intégration de la technologie de traitement d'image (ISP) SXIVE dans la plateforme AV elevate de rFpro (10/08/2026), pour le développement de pipelines caméra virtuels.
-- **VI-grade** a publié la version **2026.2** de sa suite logicielle (VI-CarRealTime, VI-DriveSim, VI-NVHSim, VI-WorldSim) le 02/07/2026.
-- **Foretellix** a intégré NVIDIA Alpamayo dans sa solution de référence (juin-août 2026), mais aurait aussi procédé à une réduction d'environ 18 % de ses effectifs début 2026 malgré cette croissance.
-- **CARLA** reste sur sa version stable **0.10.0** (décembre 2024) : aucune nouvelle version stable identifiée à ce jour malgré une activité de développement continue sur GitHub.
+- **Applied Intuition** connaît une forte activité partenariats sur la période : collaborations en Arabie Saoudite avec **HUMAIN** (31/08/2026, camions autonomes niveau 4) et **Echelon** (21/09/2026), puis annonces coup sur coup avec **Nissan** et **Honda** (05-06/10/2026) pour leurs plateformes de véhicules définis par logiciel (SDV/AIDV) — signal clair d'accélération sur l'automobile traditionnel en plus de l'IA physique.
+- **VI-grade** a annoncé un partenariat à trois avec **HBK et MOVEdot** (17/09/2026) pour intégrer des agents IA dans les workflows de simulation et d'essais physiques, en complément de l'adoption de son simulateur COMPACT FSS par **KYB Corporation** (01/09/2026) et de la poursuite de sa tournée mondiale « Smart Prototypes Summit ».
+- **Dynisma** et **ST Engineering Antycip** ont exposé conjointement un mur LED Barco TruePix pour la simulation driver-in-the-loop à la **Driving Simulation Conference (DSC) Europe 2026** à Antibes (16-18/09/2026) ; **rFpro** était également exposant au même salon, sans communiqué spécifique identifié.
+- **IPG Automotive** a organisé sa conférence utilisateurs « Apply & Innovate 2026 » à Karlsruhe (16-17/09/2026) ; **dSPACE** a tenu sa « User Conference West Coast » chez AWS à Santa Clara (23/09/2026) et exposé à l'European Microwave Week à Londres (04-09/10/2026).
+- **CARLA** confirme, via vérification directe des tags GitHub, l'absence de toute nouvelle release stable depuis la version 0.10.0 (décembre 2024).
+- Aucune actualité notable identifiée sur la période pour **Cognata**, **Concurrent Real-Time/SimWB**, **Mechanical Simulation** et **Foretellix**.
 
-[Voir le rapport complet du 2026-08-28](reports/2026-08-28.md)
+[Voir le rapport complet du 2026-10-08](reports/2026-10-08.md)
 
 ## Rapports précédents
+- [2026-10-08](reports/2026-10-08.md)
 - [2026-08-28](reports/2026-08-28.md)
