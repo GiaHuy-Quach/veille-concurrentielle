@@ -2,17 +2,18 @@
 
 Suivi quotidien de 12 concurrents du secteur : VI-grade, IPG Automotive/CarMaker, Cognata, Applied Intuition, dSPACE, CARLA, Concurrent Real-Time/SimWB, rFpro, Ansible Motion, Mechanical Simulation, Foretellix, Dynisma.
 
-## Dernier rapport — 2026-08-28
+## Dernier rapport — 2026-10-15
 
 ### Résumé exécutif
-- **Applied Intuition** a lancé **Dana**, présentée comme la première plateforme agentique pour l'IA physique (autonomie, véhicules définis par logiciel, robotique, flottes), avec des partenaires en accès anticipé comme Isuzu Motors et Komatsu (21/07/2026) — signal fort d'une expansion au-delà du seul automobile.
-- **Dynisma** affiche une activité commerciale intense sur le trimestre : nouveaux contrats avec Dallara (17/07/2026), l'écurie F1 Cadillac (02/06/2026) et Envision Racing en Formula E (22/04/2026), ainsi que le lancement du simulateur compact DMG-S (~11/06/2026).
-- **rFpro** et **Solectrix** ont annoncé l'intégration de la technologie de traitement d'image (ISP) SXIVE dans la plateforme AV elevate de rFpro (10/08/2026), pour le développement de pipelines caméra virtuels.
-- **VI-grade** a publié la version **2026.2** de sa suite logicielle (VI-CarRealTime, VI-DriveSim, VI-NVHSim, VI-WorldSim) le 02/07/2026.
-- **Foretellix** a intégré NVIDIA Alpamayo dans sa solution de référence (juin-août 2026), mais aurait aussi procédé à une réduction d'environ 18 % de ses effectifs début 2026 malgré cette croissance.
-- **CARLA** reste sur sa version stable **0.10.0** (décembre 2024) : aucune nouvelle version stable identifiée à ce jour malgré une activité de développement continue sur GitHub.
+- **Applied Intuition** ferait l'objet d'offres d'investissement valorisant l'entreprise à au moins 30 Md$ (contre 15 Md$ lors de sa Series F de juin 2025), selon un scoop de presse non confirmé officiellement (13/10/2026) ; en parallèle, un partenariat stratégique avec **HUMAIN** (société soutenue par le fonds souverain saoudien PIF) a été annoncé pour déployer des milliers de camions autonomes en Arabie saoudite d'ici 2030 (31/08/2026).
+- **Ansible Motion** et l'**IAAPS** (UK) ont lancé un environnement "Vehicle-in-the-Loop" combinant un simulateur Delta S2 et un banc d'essai de groupe motopropulseur 1 800 kW (30/09/2026) ; Ansible Motion prévoit également l'ouverture d'un nouveau centre de simulation au Snetterton Innovation Park (annoncée pour octobre 2026, non confirmée comme effective à ce jour).
+- **VI-grade** et **IPG Automotive** ont chacun été présents à deux événements mi-septembre (Smart Prototypes Summit et DSC Europe pour VI-grade ; conférence "Apply & Innovate 2026" pour IPG Automotive), sans nouvelle version logicielle ni communiqué produit majeur identifié.
+- **dSPACE** a organisé deux "User Conference" régionales (Santa Clara le 23/09/2026, Bengaluru le 25/09/2026) sans annonce produit distincte identifiée.
+- Aucune actualité récente confirmée pour **Cognata**, **CARLA** et **Mechanical Simulation** sur la période : ces trois concurrents restent silencieux côté communication publique depuis le dernier rapport.
+- Plusieurs informations factuelles antérieures au 28/08/2026 mais non signalées dans le rapport précédent ont été retrouvées cette fois (CARLA 0.9.16, RedHawk 9.6.2, rFpro AV elevate In Cabin, simulateur Dynisma chez BWT Alpine F1) ; elles sont incluses dans le rapport complet avec leur date réelle.
 
-[Voir le rapport complet du 2026-08-28](reports/2026-08-28.md)
+[Voir le rapport complet du 2026-10-15](reports/2026-10-15.md)
 
 ## Rapports précédents
+- [2026-10-15](reports/2026-10-15.md)
 - [2026-08-28](reports/2026-08-28.md)
