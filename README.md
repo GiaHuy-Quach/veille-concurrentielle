@@ -2,17 +2,18 @@
 
 Suivi quotidien de 12 concurrents du secteur : VI-grade, IPG Automotive/CarMaker, Cognata, Applied Intuition, dSPACE, CARLA, Concurrent Real-Time/SimWB, rFpro, Ansible Motion, Mechanical Simulation, Foretellix, Dynisma.
 
-## Dernier rapport — 2026-08-28
+## Dernier rapport — 2026-11-05
 
 ### Résumé exécutif
-- **Applied Intuition** a lancé **Dana**, présentée comme la première plateforme agentique pour l'IA physique (autonomie, véhicules définis par logiciel, robotique, flottes), avec des partenaires en accès anticipé comme Isuzu Motors et Komatsu (21/07/2026) — signal fort d'une expansion au-delà du seul automobile.
-- **Dynisma** affiche une activité commerciale intense sur le trimestre : nouveaux contrats avec Dallara (17/07/2026), l'écurie F1 Cadillac (02/06/2026) et Envision Racing en Formula E (22/04/2026), ainsi que le lancement du simulateur compact DMG-S (~11/06/2026).
-- **rFpro** et **Solectrix** ont annoncé l'intégration de la technologie de traitement d'image (ISP) SXIVE dans la plateforme AV elevate de rFpro (10/08/2026), pour le développement de pipelines caméra virtuels.
-- **VI-grade** a publié la version **2026.2** de sa suite logicielle (VI-CarRealTime, VI-DriveSim, VI-NVHSim, VI-WorldSim) le 02/07/2026.
-- **Foretellix** a intégré NVIDIA Alpamayo dans sa solution de référence (juin-août 2026), mais aurait aussi procédé à une réduction d'environ 18 % de ses effectifs début 2026 malgré cette croissance.
-- **CARLA** reste sur sa version stable **0.10.0** (décembre 2024) : aucune nouvelle version stable identifiée à ce jour malgré une activité de développement continue sur GitHub.
+- **Applied Intuition** a annoncé le **06/10/2026** une collaboration élargie avec **Nissan** : fourniture du logiciel Vehicle OS et d'outils de développement « AI-native » pour les futurs véhicules « AI-defined » (AIDV) de Nissan.
+- **Ansible Motion** et **IAAPS** (Université de Bath) ont inauguré le **30/09/2026** un nouvel environnement de test « vehicle-in-the-loop » couplant un simulateur Delta S2 à une installation de test de groupe motopropulseur 4 roues motrices de 1 800 kW.
+- **dSPACE** a organisé sa User Conference India 2026 à Bengaluru le **25/09/2026** (plus de 500 participants rapportés).
+- **rFpro** aurait annoncé (date approximative, ~27/10/2026, à confirmer) une intégration entre sa plateforme AV elevate et le logiciel de simulation de trafic PTV Vissim de PTV Group.
+- **Foretellix** mentionnerait un lien avec le nouveau cadre **NVIDIA Halos SAFE** (contenu daté ~21/10/2026 sur leur page news, mais détails non confirmés avec certitude).
+- Pour la majorité des autres concurrents (**VI-grade, IPG Automotive/CarMaker, Cognata, CARLA, Concurrent Real-Time/SimWB, Mechanical Simulation, Dynisma**), aucune actualité nouvelle et suffisamment confirmée n'a été identifiée depuis le dernier rapport ; à noter que l'accès direct à plusieurs sites officiels a été bloqué par la politique réseau de cette session, ce qui limite la couverture et justifie une vérification manuelle complémentaire.
 
-[Voir le rapport complet du 2026-08-28](reports/2026-08-28.md)
+[Voir le rapport complet du 2026-11-05](reports/2026-11-05.md)
 
 ## Rapports précédents
+- [2026-11-05](reports/2026-11-05.md)
 - [2026-08-28](reports/2026-08-28.md)
