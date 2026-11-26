@@ -2,17 +2,18 @@
 
 Suivi quotidien de 12 concurrents du secteur : VI-grade, IPG Automotive/CarMaker, Cognata, Applied Intuition, dSPACE, CARLA, Concurrent Real-Time/SimWB, rFpro, Ansible Motion, Mechanical Simulation, Foretellix, Dynisma.
 
-## Dernier rapport — 2026-08-28
+## Dernier rapport — 2026-11-26
 
 ### Résumé exécutif
-- **Applied Intuition** a lancé **Dana**, présentée comme la première plateforme agentique pour l'IA physique (autonomie, véhicules définis par logiciel, robotique, flottes), avec des partenaires en accès anticipé comme Isuzu Motors et Komatsu (21/07/2026) — signal fort d'une expansion au-delà du seul automobile.
-- **Dynisma** affiche une activité commerciale intense sur le trimestre : nouveaux contrats avec Dallara (17/07/2026), l'écurie F1 Cadillac (02/06/2026) et Envision Racing en Formula E (22/04/2026), ainsi que le lancement du simulateur compact DMG-S (~11/06/2026).
-- **rFpro** et **Solectrix** ont annoncé l'intégration de la technologie de traitement d'image (ISP) SXIVE dans la plateforme AV elevate de rFpro (10/08/2026), pour le développement de pipelines caméra virtuels.
-- **VI-grade** a publié la version **2026.2** de sa suite logicielle (VI-CarRealTime, VI-DriveSim, VI-NVHSim, VI-WorldSim) le 02/07/2026.
-- **Foretellix** a intégré NVIDIA Alpamayo dans sa solution de référence (juin-août 2026), mais aurait aussi procédé à une réduction d'environ 18 % de ses effectifs début 2026 malgré cette croissance.
-- **CARLA** reste sur sa version stable **0.10.0** (décembre 2024) : aucune nouvelle version stable identifiée à ce jour malgré une activité de développement continue sur GitHub.
+- **CARLA** aurait franchi une étape majeure avec la sortie de la version **1.0** (annonce datée du 18/11/2026 autour de la contribution de TIER IV pour un support natif d'Autoware), migrant vers **Unreal Engine 5.8** — rupture notable après plus d'un an et demi de stagnation sur la version 0.10.0. Date de sortie exacte à confirmer sur carla.org.
+- **Applied Intuition** serait en discussions pour une levée de fonds d'au moins 1,5 Md$ menée par General Catalyst à une valorisation d'environ **30 Md$** (le double des 15 Md$ de juin 2025), selon des reprises successives de The Information (13/10/2026) et Bloomberg (11/11/2026) — **non confirmé officiellement**. L'entreprise a aussi annoncé des collaborations avec Honda et Nissan (06/10/2026) et un contrat avec l'US Navy pour la perception IA sur sa flotte de destroyers (~22/10/2026).
+- **VI-grade** poursuit sa série d'événements « Smart Prototypes Summit » avec HBK : plus de 200 participants à l'édition de Novi (Michigan, 15-16/09/2026), suivie d'éditions au Royaume-Uni (HORIBA MIRA, 21/10/2026) et au Japon (Nagoya, 25/11/2026 — la veille de ce rapport).
+- **IPG Automotive** a lancé le **UTAC Scoring Set Europe 2026**, une suite de test virtuelle sur CarMaker dédiée au nouveau protocole de sécurité active Euro NCAP 2026 (date de publication précise non confirmée).
+- **Ansible Motion** a vu l'institut britannique IAAPS (Université de Bath) mettre en service un simulateur Delta S2 couplé à un banc de puissance de 1 800 kW pour des essais véhicule-in-the-loop combinant pilote simulé et matériel physique (~octobre 2026).
+- Pour **dSPACE, rFpro, Concurrent Real-Time/SimWB, Mechanical Simulation, Foretellix et Dynisma**, aucune actualité véritablement nouvelle n'a pu être confirmée depuis le 28/08/2026 au-delà de ce qui était déjà rapporté ; **Cognata** reste sans actualité identifiable depuis le CES 2026 (janvier 2026).
 
-[Voir le rapport complet du 2026-08-28](reports/2026-08-28.md)
+[Voir le rapport complet du 2026-11-26](reports/2026-11-26.md)
 
 ## Rapports précédents
+- [2026-11-26](reports/2026-11-26.md)
 - [2026-08-28](reports/2026-08-28.md)
